@@ -1,0 +1,14 @@
+# Node
+backend/node_modules
+backend/.env
+
+# Flutter
+smart_interview_app/build
+smart_interview_app/.dart_tool
+smart_interview_app/.flutter-plugins
+smart_interview_app/.flutter-plugins-dependencies
+smart_interview_app/.packages
+
+# OS
+.DS_Store
+Thumbs.db
